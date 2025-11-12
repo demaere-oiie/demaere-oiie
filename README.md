@@ -1,4 +1,4 @@
-## Hi!
+## Hello, World!
 
 Over the years, I've worked at all technical levels, from the raw asssembly neeeded for operating systems and language toolchains, up to phone and watch delivered end-user applications.
 
