@@ -12,4 +12,4 @@ Most recently I was selected for a programmers' retreat at the [Recurse Center](
 Other work here includes:
 - Font rendering contributions to the [Plush](https://github.com/demaere-oiie/plush/tree/main) language
 - [Beltabol](https://github.com/demaere-oiie/beltabol), a programming fan-lang based on The Expanse universe
-- Just-In-Time [machine code generation](https://github.com/demaere-oiie/200andchange/blob/main/just-in-time/index.py) contributed to the "[200 and change](https://pdubroy.github.io/200andchange/)" project
+- Just-In-Time [machine code generation](https://github.com/demaere-oiie/200andchange/blob/main/just-in-time/index.py) contributed to the "[200 and change](https://pdubroy.github.io/200andchange/just-in-time/)" project
