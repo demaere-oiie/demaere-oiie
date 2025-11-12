@@ -10,6 +10,7 @@ Most recently I was selected for a programmers' retreat at the [Recurse Center](
 - Gave a series of [presentations](https://davelongpresentations.rcdis.co) to batch mates and the wider community
 
 Other work here includes:
+- [Calder](https://github.com/demaere-oiie/calder), a speed-run (1 day) language exploring "what if statement order didn't matter?"
 - Font rendering contributions to the [Plush](https://github.com/demaere-oiie/plush/tree/main) language
 - [Beltabol](https://github.com/demaere-oiie/beltabol), a programming fan-lang based on The Expanse universe
 - Just-In-Time [machine code generation](https://github.com/demaere-oiie/200andchange/blob/main/just-in-time/index.py) contributed to the "[200 and change](https://pdubroy.github.io/200andchange/just-in-time/)" project
