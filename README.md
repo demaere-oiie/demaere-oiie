@@ -10,6 +10,7 @@ Most recently I was selected for a programmers' retreat at the [Recurse Center](
 - Gave a series of [presentations](https://davelongpresentations.rcdis.co) to batch mates and the wider community
 - Wrote [Calder](https://github.com/demaere-oiie/calder), a speed-run (1 day) language exploring "what if statement order didn't matter?"
 - Contributed font rendering to the [Plush](https://github.com/demaere-oiie/plush/tree/main) language
+- Wrote a micro-lisp in [PostgreSQL](https://gist.github.com/demaere-oiie/e6c82ed7a50212dc0e7d7d41b66f80f4)
 
 Other work here includes:
 - [Beltabol](https://github.com/demaere-oiie/beltabol), a programming fan-lang based on The Expanse universe
