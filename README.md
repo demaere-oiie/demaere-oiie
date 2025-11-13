@@ -6,7 +6,7 @@ Although I'm most at home on the back end, I'm willing to wear other hats briefl
 
 Most recently I was selected for a programmers' retreat at the [Recurse Center](https://www.recurse.com), where as a member of the Fall 1 batch, I:
 - Researched and wrote a lo-dep [Bézier Boolean Operations](https://github.com/demaere-oiie/fantastic-parakeet) package
-- Wrangled LLMs into [agentic code generation](https://github.com/demaere-oiie/stunning-robot) with the aid of [DSPy](https://dspy.ai)
+- Wrangled LLMs into out-of-distribution [agentic code generation](https://github.com/demaere-oiie/stunning-robot) with the aid of [DSPy](https://dspy.ai)
 - Gave a series of [presentations](https://davelongpresentations.rcdis.co) to batch mates and the wider community
 - Wrote [Calder](https://github.com/demaere-oiie/calder), a speed-run (1 day) language exploring "what if statement order didn't matter?"
 - Contributed font rendering to the [Plush](https://github.com/demaere-oiie/plush/tree/main) language
